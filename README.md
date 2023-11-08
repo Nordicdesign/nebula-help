@@ -1,17 +1,14 @@
-# Starlight Starter Kit: Basics
+# Documentation for Fly Omega
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
-```
-npm create astro@latest -- --template starlight
-```
+## How to contribute
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/starlight/tree/main/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/starlight/tree/main/examples/basics)
+If you see something that is not quite right or missing, please raise a pull request with your edits. This documentation uses Astro + Starlight, mainly you will only need to edit the markdown files, but if you want to add a whole new section to the sitemap you will need to modify the `astro.config.mjs` file too.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+See below for a summary of who this works.
 
-## 🚀 Project Structure
+### Project Structure
 
 Inside of your Astro + Starlight project, you'll see the following folders and files:
 
@@ -35,19 +32,11 @@ Images can be added to `src/assets/` and embedded in Markdown with a relative li
 
 Static assets, like favicons, can be placed in the `public/` directory.
 
-## 🧞 Commands
+### Commands
 
 All commands are run from the root of the project, from a terminal:
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Check out [Starlight’s docs](https://starlight.astro.build/), read [the Astro documentation](https://docs.astro.build), or jump into the [Astro Discord server](https://astro.build/chat).
+| Command       | Action                                      |
+| :------------ | :------------------------------------------ |
+| `npm install` | Installs dependencies                       |
+| `npm run dev` | Starts local dev server at `localhost:4321` |
