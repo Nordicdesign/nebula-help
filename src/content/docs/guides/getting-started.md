@@ -8,7 +8,7 @@ Omega is a career / economy simulation for flight simation, currently supporting
 ## What can I do?
 
 - Fly assignments for companies from many airports all over the world
-- Buy or lease your own plane (future)
+- Lease your own plane (buy outright coming soon)
 - Pick up assignments from _any_ airport in MSFS with your own plane
 
 ### Other functionality in the roadmap
