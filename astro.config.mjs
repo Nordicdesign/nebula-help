@@ -25,6 +25,14 @@ export default defineConfig({
           label: 'Companies',
           autogenerate: { directory: 'companies' },
         },
+        {
+          label: 'Planes',
+          autogenerate: { directory: 'planes' },
+        },
+        {
+          label: 'Client',
+          autogenerate: { directory: 'client' },
+        },
       ],
     }),
   ],

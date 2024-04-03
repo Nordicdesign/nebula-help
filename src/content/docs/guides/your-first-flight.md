@@ -1,6 +1,6 @@
 ---
-title: Getting started with Omega
-description: What is Omega?
+title: Your first flight
+description: First steps to get to the air in Omega.
 ---
 
 Omega is a career / economy simulation for flight simation, currently supporting MS Flight Simulator. You can flight all over the world running assignments and getting paid (virtually) in the process.
@@ -18,22 +18,6 @@ Omega is a career / economy simulation for flight simation, currently supporting
 We plan to support X-Plane in the future, but have not started development of the client yet.
 
 Omega has no relationship with Microsoft or Asobo.
-
-## General how it works
-
-#### One time only
-
-- Obviosuly you'll first need to create an account (it's free!) in order to access the service
-- You will need to install the client on your MSFS machine. This tracks your MSFS flights and matches it with the assignments on the website
-
-#### Regular
-
-The genereral gist of the system is to find assignments on the website that you want to flight, book the one you want to flight, load that particular plane and airport, and use the client ot track the flight, so we know that you have completed the assignment.
-
-- Go to the website and find a company assignment that has a plane attached to it
-- Load MSFS, head to that airport, and conduct the flight
-
-More details on flying your first assignment
 
 ### Other functionality in the roadmap
 
