@@ -7,7 +7,7 @@ export default defineConfig({
     starlight({
       title: 'Nebula help',
       social: {
-        github: 'https://github.com/withastro/starlight',
+        github: 'https://github.com/Nordicdesign/omega-help',
       },
       sidebar: [
         {
