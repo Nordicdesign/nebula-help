@@ -1,9 +1,9 @@
 ---
 title: Introduction to Companies
-description: What are companies in Omega
+description: What are companies in Nebula
 ---
 
-In Omega companies are entities that generate assignments at certain locations where they operate. They can be system owned or player-owned (in the future!).
+In Nebula companies are entities that generate assignments at certain locations where they operate. They can be system owned or player-owned (in the future!).
 
 Currently all companies are system owned.
 

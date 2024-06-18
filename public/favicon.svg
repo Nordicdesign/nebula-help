@@ -1,1 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><path fill-rule="evenodd" d="M81 36 64 0 47 36l-1 2-9-10a6 6 0 0 0-9 9l10 10h-2L0 64l36 17h2L28 91a6 6 0 1 0 9 9l9-10 1 2 17 36 17-36v-2l9 10a6 6 0 1 0 9-9l-9-9 2-1 36-17-36-17-2-1 9-9a6 6 0 1 0-9-9l-9 10v-2Zm-17 2-2 5c-4 8-11 15-19 19l-5 2 5 2c8 4 15 11 19 19l2 5 2-5c4-8 11-15 19-19l5-2-5-2c-8-4-15-11-19-19l-2-5Z" clip-rule="evenodd"/><path d="M118 19a6 6 0 0 0-9-9l-3 3a6 6 0 1 0 9 9l3-3Zm-96 4c-2 2-6 2-9 0l-3-3a6 6 0 1 1 9-9l3 3c3 2 3 6 0 9Zm0 82c-2-2-6-2-9 0l-3 3a6 6 0 1 0 9 9l3-3c3-2 3-6 0-9Zm96 4a6 6 0 0 1-9 9l-3-3a6 6 0 1 1 9-9l3 3Z"/><style>path{fill:#000}@media (prefers-color-scheme:dark){path{fill:#fff}}</style></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>nebula-icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="nebula-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 1.000000)" fill="#E4D413">
+            <circle id="Oval-Copy" cx="255" cy="255" r="255"></circle>
+        </g>
+        <g id="Group-2-Copy" transform="translate(111.000000, 69.000000)" fill="#232222">
+            <polygon id="Path" points="159.396175 329 77.942623 136.344633 77.2404372 136.344633 43.1844262 329 0 329 43.886612 81 100.061475 81 180.110656 267.700565 180.812842 267.700565 213.815574 81 257 81 213.113388 329"></polygon>
+            <polygon id="Path-Copy" stroke="#232222" transform="translate(240.960462, 62.684960) rotate(100.000000) translate(-240.960462, -62.684960) " points="296.041384 44.2965356 225.776493 44.2642477 234.446363 15.0686211 185.860462 65.4974846 234.490193 110.301299 225.79557 85.7156942 296.060462 85.7479822"></polygon>
+        </g>
+    </g>
+</svg>

@@ -1,9 +1,9 @@
 ---
 title: Your first flight
-description: First steps to get to the air in Omega.
+description: First steps to get to the air in Nebula.
 ---
 
-Omega is a career / economy simulation for flight simation, currently supporting MS Flight Simulator. You can flight all over the world running assignments and getting paid (virtually) in the process.
+Nebula is a career / economy simulation for flight simation, currently supporting MS Flight Simulator. You can flight all over the world running assignments and getting paid (virtually) in the process.
 
 ## What can I do?
 
@@ -17,7 +17,7 @@ Omega is a career / economy simulation for flight simation, currently supporting
 
 We plan to support X-Plane in the future, but have not started development of the client yet.
 
-Omega has no relationship with Microsoft or Asobo.
+Nebula has no relationship with Microsoft or Asobo.
 
 ### Other functionality in the roadmap
 

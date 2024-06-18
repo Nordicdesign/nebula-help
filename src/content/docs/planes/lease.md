@@ -19,6 +19,12 @@ A system lease is a monthly rolling contract where you get a plane owned by the 
 - The system will not refund you any money when you cancel a lease
   - For example: You renew a lease on the 1st of March, and decide to cancel on the 2nd. The plane will stop being available for you immediately, and the system will not return you any money, despite you have paid until the end of March
 
-### How to lease a plane
+## Viewing your planes
 
-Other players may offer personal leases in the future. We do not cover these options here, and you will have to ask them for their terms and conditions.
+Visit your hangar to view your plane. It'll be ready to fly from the airport where the dealership you leased is based. You are ready to fly wherever you want! You can use your plane to run company assignments, or general ones that are available at _all_ airports.
+
+---
+
+## Other ways of leasing planes
+
+In the future other players will be able to offer personal leases. Once that's available, you will have to ask them for their terms and conditions.

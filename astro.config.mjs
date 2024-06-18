@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Omega help',
+      title: 'Nebula help',
       social: {
         github: 'https://github.com/withastro/starlight',
       },
@@ -20,6 +20,10 @@ export default defineConfig({
         {
           label: 'Assignments',
           autogenerate: { directory: 'assignments' },
+        },
+        {
+          label: 'Flights',
+          autogenerate: { directory: 'flying' },
         },
         {
           label: 'Companies',

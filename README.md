@@ -1,4 +1,4 @@
-# Documentation for Fly Omega
+# Documentation for Fly Nebula
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
