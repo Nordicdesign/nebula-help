@@ -5,23 +5,29 @@ description: What is Nebula?
 
 Nebula is a career / economy simulation for flight simation, currently supporting MS Flight Simulator. You can flight all over the world running assignments and getting paid (virtually) in the process.
 
-## What can I do?
+**Nebula is in active development, early access.**
 
-- Fly assignments for companies from many airports all over the world, gaining ranks in the process
+## What can I do now?
+
+- Earn (virtual) money by flying assignments for companies from many airports all over the world, gaining ranks in the process
 - Lease your own plane
 - Pick up assignments from _any_ airport in MSFS with your own plane
 
+### What's coming in the future?
+
+Many ideas are being scoped at the moment, but some things closer in the roadmap are the ability to buy your own planes, lease to other players, and set up your own companies (including FBOs).
+
+---
+
 ## Simulators supported
 
-**Only MSFS (MS Flight Simulator 2020) is currently supported**. FSX _should_ probably work but has been not been tested.
+**Only MSFS (MS Flight Simulator 2020) is currently supported**. FSX _should_ probably work but it has been not been tested.
 
 We plan to support X-Plane in the future, but have not started development of the client yet.
 
 Nebula has no relationship with Microsoft or Asobo.
 
 ## General how it works
-
-#### One time only
 
 - Obviosuly you'll first need to create an account (it's free!) in order to access the service
 - You will need to install the client on your MSFS machine. This tracks your MSFS flights and matches it with the assignments on the website

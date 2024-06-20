@@ -8,6 +8,7 @@ export default defineConfig({
       title: 'Nebula help',
       social: {
         github: 'https://github.com/Nordicdesign/omega-help',
+        discord: 'https://discord.gg/M49bQVz6j2',
       },
       sidebar: [
         {
