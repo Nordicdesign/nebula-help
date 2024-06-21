@@ -9,10 +9,10 @@ You can not run the client on a network machine. Currently there are no plans to
 
 ## Requirements
 
-- A machine with MSFS installed
+- A machine with MSFS installed (should also work with P3D and FSX but it's untested at the moment)
 - Simconnect
 
-## Connecting to MSFS
+## Connecting to the sim
 
 - Launch MSFS
 - Once MSFS is running, launch the Nebula client, the app should connect automatically to MSFS

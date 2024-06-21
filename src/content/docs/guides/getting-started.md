@@ -21,7 +21,7 @@ Many ideas are being scoped at the moment, but some things closer in the roadmap
 
 ## Simulators supported
 
-**Only MSFS (MS Flight Simulator 2020) is currently supported**. FSX _should_ probably work but it has been not been tested.
+**Only MSFS (MS Flight Simulator 2020) is currently supported**. P3D and FSX _should_ probably work but it has been not been tested.
 
 We plan to support X-Plane in the future, but have not started development of the client yet.
 
