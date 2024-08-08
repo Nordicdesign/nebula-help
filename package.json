@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.5.10",
-    "@astrojs/starlight": "^0.24.3",
-    "astro": "^4.11.0",
+    "@astrojs/starlight": "^0.25.4",
+    "astro": "^4.13.2",
     "sharp": "^0.33.4",
-    "typescript": "^5.4.5"
+    "typescript": "^5.5.4"
   },
   "overrides": {
     "braces": "^3.0.3"
