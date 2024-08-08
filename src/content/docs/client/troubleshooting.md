@@ -7,9 +7,33 @@ Do you have an issue not listed below? Raise a support ticket on Discord.
 
 ### Client says it's not connected but MSFS is running
 
+Two known reasons:
+
+#### 1. Launch client after MSFS is opened
+
 Close the client and open it again.
 
 This is a known bug so the safest solution right now is to open the client _after_ MSFS has fully loaded. That means when you see the main menu. But if it happens often that the client won't automatically connecct to MSFS, please reach out in Discord.
+
+#### 2. Simconnect not using default port
+
+Simconnect listens to port 500 by default. It may be you or another app have changed this setting, and the client won't be able to connect to MSFS.
+If you tried step 1 and that doesn't work, find your `SimConnect.xml` file and check the port. It should say 500.
+
+File is located (or should be!) in:
+
+`C:\Users\<user_name>\AppData\Local\Packages\Microsoft.FlightSimulator_8wekyb3d8bbwe\LocalCache\`
+
+```
+<SimBase.Document Type="SimConnect" version="1,0">
+    <Descr>SimConnect Server Configuration</Descr>
+    <Filename>SimConnect.xml</Filename>
+    <SimConnect.Comm>
+        <Descr>Static IP4 port</Descr>
+        <Protocol>IPv4</Protocol>
+        <Scope>local</Scope>
+        <Port>500</Port>
+```
 
 ### Button to start flight / plane info doesn't appear
 

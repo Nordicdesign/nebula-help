@@ -9,9 +9,11 @@ That means there may be some discrepancy with your simulator. Some may be missin
 
 ### Can the database be updated?
 
-Yes.
+**Yes.** It is constanty changed.
 
-Work will be needed when X-Plane is supported, tweaks will be done in regards of sizes, location, naming, etc.
+With so many airports, many of them have the incorrect size and require changes. Plus work will be needed when X-Plane is supported.
+
+If you see something that is not right, let us know and we'll change it.
 
 ### Airports categories
 
