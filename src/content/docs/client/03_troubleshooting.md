@@ -13,7 +13,7 @@ Two known reasons:
 
 Close the client and open it again.
 
-This is a known bug so the safest solution right now is to open the client _after_ MSFS has fully loaded. That means when you see the main menu. But if it happens often that the client won't automatically connecct to MSFS, please reach out in Discord.
+This is a known bug so the safest solution right now is to open the client _after_ MSFS has fully loaded. That means when you see the main menu.
 
 #### 2. Simconnect not using default port
 
