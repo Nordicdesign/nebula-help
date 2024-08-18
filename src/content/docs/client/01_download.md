@@ -7,16 +7,23 @@ description: Get the latest version of the Nebula client
 
 You will need to have Simconnect installed, which you should probably have already.
 
+[0.1.3 - latest version](https://modsfire.com/8KUDgtg8o1lzbKy)
+
+Patch notes:
+
+- better logging
+- shows version number in app
+
+---
+
+### Older versions
+
 [0.1.2 - latest version](https://modsfire.com/69g4cDqx29rp69Y)
 
 Patch notes:
 
 - added ability to pin the client to the top
 - slight change to UI to make it more tight, easier to see all information at once
-
----
-
-### Older versions
 
 [0.1.1](https://modsfire.com/P9EOqY7NEfDQ4E5)
 
