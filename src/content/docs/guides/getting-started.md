@@ -10,12 +10,13 @@ Nebula is a career / economy simulation for flight simation, currently supportin
 ## What can I do now?
 
 - Earn (virtual) money by flying assignments for companies from many airports all over the world, gaining ranks in the process
-- Lease your own plane
+- Lease planes
+- Buy your own plane! Create your own dreamed hangar
 - Pick up assignments from _any_ airport in MSFS with your own plane
 
 ### What's coming in the future?
 
-Many ideas are being scoped at the moment, but some things closer in the roadmap are the ability to buy your own planes, lease to other players, and set up your own companies (including FBOs).
+Many ideas are being scoped at the moment, but some things closer in the roadmap are the ability to buy, sell and lease planes to other players, and set up your own companies (including FBOs).
 
 ---
 
