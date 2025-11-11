@@ -1,11 +1,21 @@
 ---
 title: Download
-description: Get the latest version of the Nebula client
+description: Get the latest version of the Nebula FS client
 ---
 
 ## MS Flight Simulator 2020 - MSFS
 
 You will need to have Simconnect installed, which you should probably have already.
+
+[0.1.4 - latest version](https://github.com/nebulafs/volando/releases/download/v0.1.4/volando-win32-x64-0.1.4.zip)
+
+Patch notes:
+
+- bug fixes
+
+---
+
+### Older versions
 
 [0.1.3 - latest version](https://modsfire.com/8KUDgtg8o1lzbKy)
 
@@ -13,10 +23,6 @@ Patch notes:
 
 - better logging
 - shows version number in app
-
----
-
-### Older versions
 
 [0.1.2 - latest version](https://modsfire.com/69g4cDqx29rp69Y)
 

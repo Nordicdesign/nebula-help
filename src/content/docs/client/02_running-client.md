@@ -1,21 +1,21 @@
 ---
-title: Running the Nebula client
+title: Running the Nebula FS client
 description: Tracking and reporting your flights
 ---
 
-The Nebula client is a Windows-only application that needs to be installed on the same machine as MSFS in order to track your flights and ensure they match the assignments.
+Volando, the Nebula FS client is a Windows-only application that needs to be installed on the same machine as MSFS in order to track your flights and ensure they match the assignments.
 
 You can not run the client on a network machine. Currently there are no plans to do this.
 
 ## Requirements
 
-- A machine with MSFS installed (should also work with P3D and FSX but it's untested at the moment)
+- A machine with MSFS installed (should also work with MSFS2024, P3D and FSX but it's untested at the moment)
 - Simconnect
 
 ## Connecting to the sim
 
 - Launch MSFS
-- Once MSFS is running and on the main menu, launch the Nebula client. The app will connect automatically to MSFS
+- Once MSFS is running and on the main menu, launch Volando. The app will connect automatically to MSFS
 - Log in using the same details as the website. You only need to do this once
 - If you have a plane and/or assignment booked, it will appear on the client, along with the information of your currently loaded plane
 
