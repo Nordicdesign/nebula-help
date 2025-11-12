@@ -6,10 +6,19 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Nebula help',
-      social: {
-        github: 'https://github.com/Nordicdesign/omega-help',
-        discord: 'https://discord.gg/M49bQVz6j2',
-      },
+      social: [
+        {
+          icon: 'github',
+          label: 'GitHub',
+          href: 'https://github.com/Nordicdesign/nebula-help',
+        },
+        {
+          icon: 'discord',
+          label: 'Discord',
+          href: 'https://discord.gg/M49bQVz6j2',
+        },
+      ],
+
       sidebar: [
         {
           label: 'Guides',
@@ -18,26 +27,11 @@ export default defineConfig({
             { label: 'Getting started', link: '/guides/getting-started/' },
           ],
         },
-        {
-          label: 'Assignments',
-          autogenerate: { directory: 'assignments' },
-        },
-        {
-          label: 'Flights',
-          autogenerate: { directory: 'flying' },
-        },
-        {
-          label: 'Companies',
-          autogenerate: { directory: 'companies' },
-        },
-        {
-          label: 'Planes',
-          autogenerate: { directory: 'planes' },
-        },
-        {
-          label: 'Client',
-          autogenerate: { directory: 'client' },
-        },
+        { label: 'Assignments', autogenerate: { directory: 'assignments' } },
+        { label: 'Flights', autogenerate: { directory: 'flying' } },
+        { label: 'Companies', autogenerate: { directory: 'companies' } },
+        { label: 'Planes', autogenerate: { directory: 'planes' } },
+        { label: 'Client', autogenerate: { directory: 'client' } },
       ],
     }),
   ],
