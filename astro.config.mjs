@@ -1,8 +1,10 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://help.nebulafs.com',
   integrations: [
     starlight({
       title: 'NebulaFS help',
@@ -34,5 +36,6 @@ export default defineConfig({
         { label: 'Client', autogenerate: { directory: 'client' } },
       ],
     }),
+    sitemap(),
   ],
 });
