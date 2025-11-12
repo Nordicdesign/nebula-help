@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'Nebula help',
+      title: 'NebulaFS help',
       social: [
         {
           icon: 'github',
