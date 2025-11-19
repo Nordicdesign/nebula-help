@@ -1,10 +1,12 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import sitemap from "@astrojs/sitemap";
+import { redirects } from "./redirects.config.js";
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://help.nebulafs.com",
+  redirects,
   integrations: [
     starlight({
       title: "NebulaFS help",
